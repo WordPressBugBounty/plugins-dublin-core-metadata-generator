@@ -1,0 +1,1 @@
+# plugins-dublin-core-metadata-generator
